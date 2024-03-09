@@ -1,0 +1,6 @@
+﻿  Merge sort.cpp
+D:\Навчання\2 курс\АС\Лаба 2\Merge sort\Merge sort\Merge sort.cpp(88,20): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Навчання\2 курс\АС\Лаба 2\Merge sort\Merge sort\Merge sort.cpp(100,20): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Навчання\2 курс\АС\Лаба 2\Merge sort\Merge sort\Merge sort.cpp(143,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Навчання\2 курс\АС\Лаба 2\Merge sort\Merge sort\Merge sort.cpp(158,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Merge sort.vcxproj -> D:\Навчання\2 курс\АС\Лаба 2\Merge sort\Merge sort\x64\Debug\Merge sort.exe
